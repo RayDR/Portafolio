@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+build/
+
+# TypeScript output (if compiled manually)
+*.js
+*.js.map
+
+# Logs
+logs/
+*.log
+
+# Env
+.env
+
+# IDE/editor
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
